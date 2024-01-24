@@ -1,0 +1,2 @@
+# SnakeAI
+SnakeAI. Q-Learning
